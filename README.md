@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 12-Employee-Tracker
 
 ## Description
@@ -39,3 +40,6 @@ n/a
 ## Questions
 
 Email me at [abilivick@gmail.com](mailto:abilivick@gmail.com) or explore more projects at [lailiel](https://www.github.com/lailiel)
+=======
+# 12-Employee-Tracker
+>>>>>>> 5128e0178d93fc5417143ec50170e3afb428ca01
